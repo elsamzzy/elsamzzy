@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @elsamzzy
 - 👀 I’m interested in Web devlopment and mobile development
-- 🌱 I’m currently learning Flutter
 - 📫 You can reach me at okhawesamuel@gmail.com
 
 <!---
